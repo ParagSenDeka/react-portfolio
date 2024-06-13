@@ -48,25 +48,7 @@ e
   yours replaces it)
 - if background removal is not an option for you, any image you use will automatically be made into a circle. for this
   reason, square images without too tall of an aspect-ratio work best.
-- example with background removed:
 
-![](https://user-images.githubusercontent.com/18350557/176955112-a84b32a6-ddfc-44c9-86e3-268e56654346.png)
-
-- example with background not removed:
-
-![](https://user-images.githubusercontent.com/18350557/176955109-2c6251d4-a623-482a-9059-e186f32f7f2c.png)
-
-#### mockups
-
-- add to the `img` folder up to 5 screenshots of projects you have completed to be added to your portfolio page. this
-  can either be a regular screenshot, or you can create mockups like what are on the default template. I created these
-  in Canva -- At the bottom of this readme is instructions to create them yourself! 
-
-example: ![](http://localhost:3000/static/media/mock5.7a3de7b6c7393f774688.png)
-
-- to make life easier later, name these files `mock1.png`, `mock2.png`, etc.
-
----
 
 ### 2. edit `Info.js`
 
