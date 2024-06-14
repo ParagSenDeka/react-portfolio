@@ -13,7 +13,6 @@
 📱 Fully Responsive
 
 🎨 Modern Design
-e
 
 
 ## getting started
